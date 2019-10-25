@@ -1,0 +1,19 @@
+{
+    "name": "Ibrahim Qureshi | Developer with passion",
+    "short_name": "Ibrahim Qureshi | Developer with passion",
+    "icons": [
+        {
+            "src": "/workstation/assets/favicon/IL192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/workstation/assets/favicon/IL256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
